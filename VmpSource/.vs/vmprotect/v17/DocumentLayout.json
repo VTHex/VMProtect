@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\VTHex\\VMProtect\\VmpSource\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C3F704A-25EC-4A48-907D-DF78EA2CFC47}|vcproj\\core.vcxproj|D:\\VTHex\\VMProtect\\VmpSource\\core\\core.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9C3F704A-25EC-4A48-907D-DF78EA2CFC47}|vcproj\\core.vcxproj|solutionrelative:core\\core.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|D:\\VTHex\\VMProtect\\VmpSource\\runtime\\loader.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|solutionrelative:runtime\\loader.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|D:\\VTHex\\VMProtect\\VmpSource\\runtime\\core.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|solutionrelative:runtime\\core.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|D:\\VTHex\\VMProtect\\VmpSource\\runtime\\runtime.def||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|solutionrelative:runtime\\runtime.def||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "core.cc",
-              "DocumentMoniker": "D:\\VTHex\\VMProtect\\VmpSource\\core\\core.cc",
-              "RelativeDocumentMoniker": "core\\core.cc",
-              "ToolTip": "D:\\VTHex\\VMProtect\\VmpSource\\core\\core.cc",
-              "RelativeToolTip": "core\\core.cc",
-              "ViewState": "AgIAAIkHAAAAAAAAAAAcwIgHAAAGAAAAAAAAAA==",
+              "Title": "loader.cc",
+              "DocumentMoniker": "D:\\VTHex\\VMProtect\\VmpSource\\runtime\\loader.cc",
+              "RelativeDocumentMoniker": "runtime\\loader.cc",
+              "ToolTip": "D:\\VTHex\\VMProtect\\VmpSource\\runtime\\loader.cc",
+              "RelativeToolTip": "runtime\\loader.cc",
+              "ViewState": "AgIAAFkLAAAAAAAAAIAwwGULAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T04:43:58.03Z",
+              "WhenOpened": "2025-10-28T11:03:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "runtime.def",
+              "DocumentMoniker": "D:\\VTHex\\VMProtect\\VmpSource\\runtime\\runtime.def",
+              "RelativeDocumentMoniker": "runtime\\runtime.def",
+              "ToolTip": "D:\\VTHex\\VMProtect\\VmpSource\\runtime\\runtime.def",
+              "RelativeToolTip": "runtime\\runtime.def",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2025-10-28T10:57:26.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "core.cc",
+              "DocumentMoniker": "D:\\VTHex\\VMProtect\\VmpSource\\runtime\\core.cc",
+              "RelativeDocumentMoniker": "runtime\\core.cc",
+              "ToolTip": "D:\\VTHex\\VMProtect\\VmpSource\\runtime\\core.cc",
+              "RelativeToolTip": "runtime\\core.cc",
+              "ViewState": "AgIAABAEAAAAAAAAAAAiwBkEAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-28T10:38:02.739Z",
               "EditorCaption": ""
             }
           ]
